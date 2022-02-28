@@ -39,6 +39,8 @@
 GoogleDrive：https://drive.google.com/drive/folders/19VHVhFHhikV_HFDJOoqM9EPigarisO-1?usp=sharing
 
 にある
+
 ・"Hand-Drawn Map説明資料.pdf"をご参照ください。
+
 ・"マップの絵のルール.pdf"をご参照ください。
 
