@@ -44,3 +44,16 @@ GoogleDrive：https://drive.google.com/drive/folders/19VHVhFHhikV_HFDJOoqM9EPiga
 
 ・"マップの絵のルール.pdf"をご参照ください。
 
+
+## 参考にした資料
+### 書籍
+「DirectX12の魔導書　3Dレンダリングの基礎からMMDモデルを躍らせるまで」
+
+https://www.amazon.co.jp/dp/B082WY8HDH/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+### 記事
+「[DirectX12]ハローワールドからFBXモデルを表示させるまで」
+
+https://qiita.com/kyooooooooma/items/c43dd8b96cc104cb6713
+
+
