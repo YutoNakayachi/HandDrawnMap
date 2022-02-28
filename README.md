@@ -12,6 +12,7 @@
 ## 使用した外部ライブラリ
 
 ・DirectXTex：テクスチャを簡単に扱うために使用しました。
+
 　
 　https://github.com/Microsoft/DirectXTex
 
@@ -35,6 +36,9 @@
 
 
 ## 操作方法
+GoogleDrive：https://drive.google.com/drive/folders/19VHVhFHhikV_HFDJOoqM9EPigarisO-1?usp=sharing
+
+にある
 ・"Hand-Drawn Map説明資料.pdf"をご参照ください。
 ・"マップの絵のルール.pdf"をご参照ください。
 
