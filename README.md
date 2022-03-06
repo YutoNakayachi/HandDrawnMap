@@ -3,6 +3,9 @@
 プレイヤー自身でマップを作成できることが特徴の3Dカーレースゲームです。
 ペイントソフトなどを用いて描いた単純なマップの絵からゲーム内のマップを生成し、そのマップを走ることができます。
 
+![gameshot](img/gameShot.jpg)
+
+
 ## 実行動画
 [![](https://img.youtube.com/vi/An4UryWPpGE/0.jpg)](https://www.youtube.com/watch?v=An4UryWPpGE)
 
